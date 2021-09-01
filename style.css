@@ -1,0 +1,17 @@
+body{
+color: lavenderblush ;
+background: slateblue;
+}
+#camera{
+border:2px dashed purple;
+width: 350px;
+height: 300px;
+}
+.heading{
+width: 80%;
+font-size: 20px;
+font-family: cursive;
+}
+.name_of_objects, #result_object_name, #result_accuracy{
+color: ivory;
+}
